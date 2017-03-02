@@ -13,7 +13,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/01-Handout.html)
  
 ### 2rd March - Image Enhancement (A. Kaestner)
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/02-Slides.pdf)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/02-Slides-ImageEnhancement.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/0Wrvjg8vbPg), [Part 2](https://youtu.be/Q6C1rO9x4PA)
 
 ### 9rd March - Tutorial: Python, Notebooks and Scikit
@@ -90,9 +90,9 @@ The exercises will be supported by Yannis Vogiatzis, Kevin Mader, and Christian 
 #### Python
  - You can get started on Kaggle (no installation required just register)
  - Online [Dataset](https://www.kaggle.com/kmader/qbi-image-enhancement)
- - Online Kernel for [Exercises 1-3](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/exercises-1-3/)
+ - Online Kernel for [Exercises 1-3](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/exercises-1-3/) and [Exercise 4](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/exercise-4/)
  - Additionally there is an competition on [Image Enhancement](https://inclass.kaggle.com/c/mnt-denoising)
- - For students experienced in Python there is an Jupyter notebook [Jupyter Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb) or [download](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb?raw=true) and how to get [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
+ - For students experienced in Python there is an Jupyter notebook [Exercise1-3](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb), [Exercise](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercise4.ipynb)  or [download](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/02-files/Exercises1-3.ipynb?raw=true) and how to get [Jupyter on the D61 Machines](https://github.com/kmader/Quantitative-Big-Imaging-2017/wiki/Installing-Python-and-Jupyter-Notebook-on-the-ETZ-D61-Machines)
  
 #### Matlab (just for this exercise)
   - An older version of the exercises in Matlab are available [here](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/Exercises_ImageEnhancement.pdf?raw=true)
