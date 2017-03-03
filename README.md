@@ -1,4 +1,6 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kmader/quantitative-big-imaging-2017)
 ## Quantitative Big Imaging Course 2017
+
 Here are the lectures, exercises, and additional course materials corresponding to the spring semester 2016 course at ETH Zurich, [227-0966-00L](http://www.vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheitPre.do?lerneinheitId=113382&semkez=2017S&lang=en): Quantitative Big Imaging. 
 
 The lectures have been prepared and given by Kevin Mader and associated guest lecturers. Please note the Lecture Slides and PDF do not contain source code, this is only available in the handout file. Some of the lectures will be recorded and placed on YouTube on the [QBI Playlist](https://www.youtube.com/playlist?list=PLTWuXgjdOrnkHTWKpuaYDj3le1XNJD3LH).
@@ -73,6 +75,9 @@ The exercises from last year (available on: kmader.github.io/Quantitative-Big-Im
 
 ## Assistance
 The exercises will be supported by Yannis Vogiatzis, Kevin Mader, and Christian Dietz. There will be office hours in ETZ H75 on Thursdays between 14-15 or by appointment.
+
+## Online Tools
+The exercises will be available on Kaggle as 'Datasets' and we will be trying [binder](http://mybinder.org:/repo/kmader/quantitative-big-imaging-2017) as well which is well suited for Open Source reproducible science.
 
 ## Specific Assignments
 
