@@ -111,12 +111,14 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 
 #### Python Notebooks
  - [Tutorial](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
- - [MNIST Contest](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-GettingStartedContests.ipynb)
+ - [Digit Recognizer Contest](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-GettingStartedContests.ipynb)
 
 #### Kaggle Kernels
 - [Tutorial](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi-python-tutorial/)
 - [Digit Recognizer Setup](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-introduction-to-contests)
 
+#### Video Tutorials
+- [Using and Forking a Kaggle Kernel](https://www.youtube.com/watch?v=cn0ytIt12s0&feature=youtu.be)
 
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-Description.md)
