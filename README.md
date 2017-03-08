@@ -19,8 +19,8 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Old Lecture Video: [Part 1](https://youtu.be/0Wrvjg8vbPg), [Part 2](https://youtu.be/Q6C1rO9x4PA)
 
 ### 9rd March - Tutorial: Python, Notebooks and Scikit
- - Lecture slides to come
- - Handout to come
+ - Lecture [slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-QBI-PythonTutorial.slides.html)
+ - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
 
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Slides.html)
@@ -103,6 +103,20 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
   - An older version of the exercises in Matlab are available [here](https://github.com/kmader/Quantitative-Big-Imaging-Course/blob/master/Ex2/Exercises_ImageEnhancement.pdf?raw=true)
 
 ### 9th March - Tutorial: Python, Notebooks and Scikit
+
+#### Contest Data
+
+- MNIST/Digit Recognizer Dataset (www.kaggle.com/c/digit-recognizer)
+- Download [data](https://www.kaggle.com/c/digit-recognizer/data)
+
+#### Python Notebooks
+ - [Tutorial](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
+ - [MNIST Contest](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-GettingStartedContests.ipynb)
+
+#### Kaggle Kernels
+- [Tutorial](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi-python-tutorial/)
+- [Digit Recognizer Setup](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-introduction-to-contests)
+
 
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-Description.md)
