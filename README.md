@@ -123,6 +123,13 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-Description.md)
  - [Old Workflows](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/03-files/Workflows.zip?raw=true)
+ 
+#### Kaggle
+
+- [Kaggle Dataset Overview](https://www.kaggle.com/kmader/qbi-image-segmentation)
+- [Bone Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/segmenting-cells-in-bone-data/)
+- [Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/fossil-data-viewing-and-analysis)
+- [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
 
 ### 23rd March - Advanced Segmentation
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Description.md)
