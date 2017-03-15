@@ -23,7 +23,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Handout](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/03-QBI-PythonTutorial.ipynb)
 
 ### 16th March - Basic Segmentation, Discrete Binary Structures
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
  - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=JGW0mS7DJ4E), [Part 2](https://www.youtube.com/watch?v=woR7tAbssLo)
 
