@@ -174,7 +174,7 @@ The final examination (as originally stated in the course material) will be a 30
 
 
 # Projects
-- [Overview](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Projects/Overview.md) of possible projects
+- [Overview](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Projects/Overview.md) of possible projects
 - [Here](https://docs.google.com/spreadsheet/ccc?key=0AnOOBjdH2wMXdFNzVUNEUUc1WG1Cb21Gb24xZnQ5dWc&usp=sharing) you signup for your project with team members and a short title and description
 
 
