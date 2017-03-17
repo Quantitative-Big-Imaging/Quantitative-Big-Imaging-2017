@@ -25,7 +25,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 16th March - Basic Segmentation, Discrete Binary Structures
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/03-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/03-Handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/03-Handout.pdf)
- - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=JGW0mS7DJ4E), [Part 2](https://www.youtube.com/watch?v=woR7tAbssLo)
+ - Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 23rd March - Advanced Segmentation
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides.html)
