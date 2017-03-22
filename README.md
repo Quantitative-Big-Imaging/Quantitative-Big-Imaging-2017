@@ -28,7 +28,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://youtu.be/EL_ZiVhqtx8), [Part 2](https://youtu.be/7bdydJeCUoE)
 
 ### 23rd March - Advanced Segmentation
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/Djdk6LQUmCo), [Part 2](https://youtu.be/c7xdzdJ3G-s)
 
