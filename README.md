@@ -30,7 +30,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 23rd March - Advanced Segmentation
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/04-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/04-Slides_files/04-Handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/04-Handout.pdf)
- - Old Lecture Video: [Part 1](https://youtu.be/Djdk6LQUmCo), [Part 2](https://youtu.be/c7xdzdJ3G-s)
+ - Lecture Video: [Part 1](https://www.youtube.com/watch?v=2o8swi_vei8), [Part 2](https://www.youtube.com/watch?v=wN1kNxIVw9I)
 
 ### 30th March - Analyzing Single Objects
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides.html)
@@ -132,8 +132,17 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 - [Another Fossil Segmentation](https://www.kaggle.com/kmader/d/kmader/qbi-image-segmentation/teeth-fossil-viewing)
 
 ### 23rd March - Advanced Segmentation
- - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Description.md)
- - [Old IPython Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Exercises.ipynb), and [IPython Solutions/Advanced](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Exercises-Solutions.ipynb) but these are still incomplete
+ - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/04-Description.md)
+ - [Old IPython Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/04-Exercises.ipynb), and [Old IPython Solutions/Advanced](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/04-Exercises-Solutions.ipynb) but these are still incomplete
+
+#### Kaggle
+
+ - [Kernel for Ultrasound Segmentation - Exercises](https://www.kaggle.com/kmader/ultrasound-nerve-segmentation/qbi-advanced-image-segmentation/)
+ - [Kernel for Superpixels on PETCT](https://www.kaggle.com/kmader/d/4quant/soft-tissue-sarcoma/superpixels-on-petct-for-labeling)
+ - [Kernel for K-Means on Temporal/Video Data](https://www.kaggle.com/kmader/d/kmader/circadian-rhythm-in-the-brain/k-means-clustering-on-neurons)
+ - [Advanced Kernel Predicting Malignancy using Superpixels](https://www.kaggle.com/kmader/d/4quant/soft-tissue-sarcoma/predicting-malignancy-in-superpixels)
+ - [Multispectral / Hyperspectral Data](https://www.kaggle.com/kmader/d/xiaozhouwang/multispectralimages/data-overview)
+ 
 
 ### 30th March - Analyzing Single Objects
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/05-Description.md)
