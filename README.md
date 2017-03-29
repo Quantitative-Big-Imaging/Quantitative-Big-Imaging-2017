@@ -33,7 +33,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://www.youtube.com/watch?v=2o8swi_vei8), [Part 2](https://www.youtube.com/watch?v=wN1kNxIVw9I)
 
 ### 30th March - Analyzing Single Objects
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/05-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides_files/05-handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/06-Handout.pdf) 
  - Lecture Video: [Part 1](https://youtu.be/l4ncwPgwVLo), [Part 2](https://youtu.be/ZT_tgCQApqo) 
 
@@ -145,8 +145,9 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  
 
 ### 30th March - Analyzing Single Objects
- - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/05-Description.md)
- - [Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
+ - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
+ - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
+ - [Old Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
 
 ### 6th April - Analyzing Complex Objects
  - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-Description.md)
