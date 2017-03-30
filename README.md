@@ -146,6 +146,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 
 ### 30th March - Analyzing Single Objects
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
+ - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/)
  - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
  - [Old Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
 
