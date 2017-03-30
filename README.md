@@ -35,7 +35,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 30th March - Analyzing Single Objects
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/05-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/05-Slides_files/05-handout.html) as [Old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/06-Handout.pdf) 
- - Lecture Video: [Part 1](https://youtu.be/l4ncwPgwVLo), [Part 2](https://youtu.be/ZT_tgCQApqo) 
+ - Lecture Video: [Part 1](https://youtu.be/-uMJNOcUGVY), [Part 2](https://youtu.be/VoiYCE3XQgw) 
 
 ### 6th April - Analyzing Complex Objects
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides.html)
@@ -146,7 +146,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 
 ### 30th March - Analyzing Single Objects
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
- - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/)
+ - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [Jupyter Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-files/EMSegNotebook.ipynb)
  - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
  - [Old Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
 
