@@ -38,7 +38,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://youtu.be/-uMJNOcUGVY), [Part 2](https://youtu.be/VoiYCE3XQgw) 
 
 ### 6th April - Analyzing Complex Objects
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/06-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
  - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=cNUjEiyhkt8), [Part 2](https://www.youtube.com/watch?v=RV680pP1Mu0) 
 
@@ -151,7 +151,10 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  - [Old Creating Meshes/STL Models](https://gist.github.com/kmader/b25ac8b94b600918b372)
 
 ### 6th April - Analyzing Complex Objects
- - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-Description.md)
+
+ - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-Description.md)
+ - [Kaggle Street Network](https://www.kaggle.com/kmader/d/kmader/street-network-segmentation/thresholding-streets)
+ - [Kaggle Electron Microscopy Segmentation](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-comple-object-analysis-skeletonization)
  - [Paraview Curvature](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-files/CurvatureContour.pvsm)
  - [Old IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-notebook.ipynb)
 
