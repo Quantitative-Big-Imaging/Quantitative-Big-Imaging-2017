@@ -40,7 +40,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 6th April - Analyzing Complex Objects
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/06-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/06-Slides_files/06-handout.html)
- - Old Lecture Video: [Part 1](https://www.youtube.com/watch?v=cNUjEiyhkt8), [Part 2](https://www.youtube.com/watch?v=RV680pP1Mu0) 
+ - Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w) 
 
 ### 13th April - Many Objects and Distributions
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides.html)
