@@ -43,7 +43,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://youtu.be/GXg61CZx6Yc), [Part 2](https://youtu.be/8F4ClTTXI2w) 
 
 ### 13th April - Many Objects and Distributions
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/08-Handout.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/2AsONMLNtfk), [Part 2](https://youtu.be/wyizE0HBEDs)
 
@@ -145,6 +145,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  
 
 ### 30th March - Analyzing Single Objects
+
  - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-Description.md)
  - [Kaggle EM Cell Segmentation Intro](https://www.kaggle.com/kmader/d/kmader/electron-microscopy-3d-segmentation/qbi-single-object-analysis/) and [Jupyter Notebook](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/05-files/EMSegNotebook.ipynb)
  - [Kaggle MNIST Shape Analysis](https://www.kaggle.com/kmader/digit-recognizer/qbi2017-single-object-analysis)
@@ -159,8 +160,11 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  - [Old IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/06-notebook.ipynb)
 
 ### 13th April - Many Objects and Distributions
- - [Old KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/07-Description.md)
- - [Old IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2016/blob/master/Exercises/07-notebook.ipynb)
+
+ - [KNIME Exercises](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-Description.md)
+ - [IPython Notebook (Under development)](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/07-notebook.ipynb)
+ 
+- [Kaggle Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-many-objects-and-distributions/)
 
 ### 27th April - Statistics and Reproducibility
  - [Old KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
