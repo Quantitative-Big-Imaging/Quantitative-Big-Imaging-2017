@@ -45,7 +45,7 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 13th April - Many Objects and Distributions
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/07-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/08-Handout.pdf)
- - Old Lecture Video: [Part 1](https://youtu.be/2AsONMLNtfk), [Part 2](https://youtu.be/wyizE0HBEDs)
+ - Lecture Video: [Part 1](https://youtu.be/hkHdpQTlGio), [Part 2](https://youtu.be/UvOPxdKZ3NI)
 
 ### 27st April - Statistics and Reproducibility
  - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/08-Slides.html)
