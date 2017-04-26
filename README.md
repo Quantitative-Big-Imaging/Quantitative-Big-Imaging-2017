@@ -47,7 +47,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/07-Slides_files/07-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/08-Handout.pdf)
  - Lecture Video: [Part 1](https://youtu.be/hkHdpQTlGio), [Part 2](https://youtu.be/UvOPxdKZ3NI)
 
-### 27st April - Statistics and Reproducibility
+### 27st April - Statistics, Prediction, and Reproducibility
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
  - [Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides_files/08-handout.html) as [old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/09-Handout.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/JHvIoDe4rOs), [Part 2](https://youtu.be/GQmxFscqahE), [Part 3](https://youtu.be/4L-7DryWeYU)
@@ -170,7 +170,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 - [Kaggle R Notebook](https://www.kaggle.com/kmader/d/kmader/qbi-image-enhancement/qbi2017-groups-of-objects-and-distributions/notebook)
 
 
-### 27th April - Statistics and Reproducibility
+### 27th April - Statistics, Prediction, and Reproducibility
 
  - [KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/08-Description.html)
  - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
