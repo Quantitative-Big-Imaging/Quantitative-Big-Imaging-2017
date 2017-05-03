@@ -50,10 +50,10 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 27st April - Statistics, Prediction, and Reproducibility
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides.html)
  - [Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/08-Slides_files/08-handout.html) as [old PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/09-Handout.pdf)
- - Old Lecture Video: [Part 1](https://youtu.be/JHvIoDe4rOs), [Part 2](https://youtu.be/GQmxFscqahE), [Part 3](https://youtu.be/4L-7DryWeYU)
+ - Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Old Part 3](https://youtu.be/4L-7DryWeYU)
 
 ### 4th May - Dynamic Experiments
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/09-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/09-Slides.html)
  - [Old Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/zi2ymjDvD9I)
 
