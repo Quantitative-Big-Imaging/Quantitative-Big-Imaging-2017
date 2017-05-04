@@ -53,7 +53,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://youtu.be/UUa9zJtbuW4), [Part 2](https://youtu.be/nYz3_GERV6Q), [Old Part 3](https://youtu.be/4L-7DryWeYU)
 
 ### 4th May - Dynamic Experiments
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/09-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/09-Slides.html)
  - [Old Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/10-handout.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/zi2ymjDvD9I)
 
@@ -176,7 +176,8 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  - C. Elegans Dataset on Kaggle [R Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/qbi-statistics-and-reproducibility-in-r/) or [Python Notebook](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
 
 ### 4th May - Dynamic Experiments
- - [Old KNIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
+ - [NIME Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/09-Description.html)
+ - [Kaggle Neuron Tracking](https://www.kaggle.com/kmader/track-neuron-movement)
 
 ### 11th May - Scaling Up / Big Data
  - [Old KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Exercises/10-Description.html)
