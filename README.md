@@ -58,7 +58,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - Lecture Video: [Part 1](https://youtu.be/77kmZjiKQYQ)
 
 ### 11th May - Scaling Up / Big Data
- - [Old Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-Slides.html)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
 
 ### 18th May  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
