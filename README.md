@@ -183,6 +183,7 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
 ### 11th May - Scaling Up / Big Data
  - [KNIME / Spark Exercises](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Exercises/10-Description.md)
  - [Tensorflow DAG Notebook Filtering](https://github.com/kmader/Quantitative-Big-Imaging-2017/blob/master/Exercises/Ex10-UsingTensorflow.ipynb)
+ - [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow) 
 
 ### 18th May  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
 ### 1st June - Guest Lecture - Big Aerial Images with Deep Learning and More Advanced Approaches (J. Montoya)
