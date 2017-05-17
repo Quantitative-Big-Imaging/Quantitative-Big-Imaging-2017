@@ -60,11 +60,15 @@ For communicating, discussions, asking questions, and everything, we will be try
 ### 11th May - Scaling Up / Big Data
  - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/10-Slides.html)
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/11-handout.html) as [PDF](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/10-handout.pdf)
+ - Lecture Video: [Part 1](https://www.youtube.com/watch?v=DReSAalWzq0&index=19&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv) and [Part 2](https://www.youtube.com/watch?v=QNOCCrQZa_E&index=20&list=PLTWuXgjdOrnnBtf554bMfKV6n2S6XgcLv)
 
 ### 18th May  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
+ 
+ - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+
 ### 1st June - Guest Lecture - Big Aerial Images with Deep Learning and More Advanced Approaches (J. Montoya)
 ### Old Guest Lectures
- - [High Content Screening Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-HCSSlides.pdf) - Michael Prummer / Nexus / Roche
+
  - [Roads from Aerial Images Slides ](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/11-AerialSlides.pdf) - Javier Montoya / Computer Vision / ScopeM
  - [Deep Learning Slides (A. Lucchi)](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/12-DeepLearning.pdf)
 
@@ -186,6 +190,13 @@ The exercises will be available on Kaggle as 'Datasets' and we will be trying [b
  - [Kaggle DAG Notebook for Filtering](https://www.kaggle.com/kmader/simple-dags-in-tensorflow) 
 
 ### 18th May  - Guest Lecture - High Content Screening (M. Prummer) / Project Presentations
+
+- [High Content Screening with C. Elegans](https://www.kaggle.com/kmader/high-content-screening-celegans)
+- Goal is looking at what metrics accurately indicate living or dead worms and building a simple predictive model
+- [Kaggle Overview](https://www.kaggle.com/kmader/d/kmader/high-content-screening-celegans/image-overview)
+- [Shape Analysis](https://www.kaggle.com/kmader/worm-shape-analysis)
+- [Processing in R](https://www.kaggle.com/kmader/basic-analysis-in-r)
+
 ### 1st June - Guest Lecture - Big Aerial Images with Deep Learning and More Advanced Approaches (J. Montoya)
 ### Old Guest Lecture Exercises
  - Machine Learning Aerial Images
