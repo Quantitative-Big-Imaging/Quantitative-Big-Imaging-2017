@@ -15,7 +15,7 @@ For communicating, discussions, asking questions, and everything, we will be try
  - [Old Lecture Handout](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2015/master/Lectures/01-Handout.html)
  
 ### 2rd March - Image Enhancement (A. Kaestner)
- - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2016/master/Lectures/02-Slides-ImageEnhancement.pdf)
+ - [Lecture Slides](https://rawgithub.com/kmader/Quantitative-Big-Imaging-2017/master/Lectures/02-Slides-ImageEnhancement.pdf)
  - Old Lecture Video: [Part 1](https://youtu.be/0Wrvjg8vbPg), [Part 2](https://youtu.be/Q6C1rO9x4PA)
 
 ### 9rd March - Tutorial: Python, Notebooks and Scikit
